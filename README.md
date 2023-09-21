@@ -1,4 +1,5 @@
 ![logo](https://github.com/Zikrajamil/Zikrajamil/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Zikra Jamil</h1>
 <h3 align="center">A passionate front-end-developer from pakistan</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
